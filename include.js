@@ -7,6 +7,13 @@ let cards = [
     githubLink: 'https://github.com/shakerdl'
   },
   {
+    artName: 'The Crane',
+    pageLink: './Art/Malik-Makkes/index.html',
+    imageLink: './Art/Malik-Makkes/The-Crane.png',
+    author: 'Malik',
+    githubLink: 'https://github.com/MalikSploit'
+  },
+  {
     artName: 'Goa - Beach',
     pageLink: './Art/Shailesh/index.html',
     imageLink: './Art/Shailesh/Goa - Beach.jpg',
@@ -5556,7 +5563,6 @@ let cards = [
     author: 'Yashraj',
     githubLink: 'https://github.com/yashraj2003e'
   },
-
   {
     artName: 'segunOsiki',
     pageLink: './Art/segunOsiki/index.html',
@@ -5670,6 +5676,198 @@ let cards = [
     imageLink: './Art/DaniM/sun.gif',
     author: 'DaniMash',
     githubLink: 'https://github.com/dani-mashasha'
+  },
+  {
+    artName: 'Modern Clock',
+    pageLink: './Art/Tiziano/index.html',
+    imageLink: './Art/Tiziano/clock.gif',
+    author: 'Tiziano',
+    githubLink: 'https://github.com/tizspagno'
+  },
+  {
+    artName: 'Work of art',
+    pageLink: './Art/Romano/index.html',
+    imageLink: './Art/Romano/index.gif',
+    author: 'Romano',
+    githubLink: 'https://github.com/Mrschabs'
+  },
+  {
+    pageLink: './Art/sanation/index.html',
+    imageLink: './Art/sanation/trial.gif',
+    author: 'Sajal',
+    githubLink: 'https://github.com/sajalnayansingh'
+  },
+  {
+    artName: 'Jo Ngono',
+    pageLink: './Art/jongono/index.html',
+    imageLink: './Art/jongono/jongono.png',
+    author: 'inazrabuu',
+    githubLink: 'https://github.com/inazrabuu'
+  },
+  {
+    artName: 'poorly drawn pikachu',
+    pageLink: "./Art/Sayed's Pikachu/Sayed's Pikachu.html",
+    imageLink: "./Art/Sayed's Pikachu/img.gif",
+    author: 'Sayed Husain',
+    githubLink: 'https://github.com/Sayed-Husain'
+  },
+  {
+    artName: 'colorful flower',
+    pageLink: './Art/shai/index.html',
+    imageLink: './Art/shai/animation.gif',
+    author: 'Shytech1',
+    githubLink: 'https://github.com/ShyTech1'
+  },
+  {
+    artName: 'Pulse',
+    pageLink: './Art/ogutu/index.html',
+    imageLink: './Art/ogutu/giphy.gif',
+    author: 'kennedy',
+    githubLink: 'https://github.com/kennedy-ogutu'
+  },
+  {
+    artName: 'ZTM Animation',
+    pageLink: './Art/TC/index.html',
+    imageLink: './Art/TC/ztm.gif',
+    author: 'Terence',
+    githubLink: 'https://github.com/TerenceChew'
+  },
+  {
+    artName: 'Serene Animation',
+    pageLink: './Art/sereneanimation/index.html',
+    imageLink: './Art/sereneanimation/trance.gif',
+    author: 'Serene',
+    githubLink: 'https://github.com/meikuan23'
+  },
+  {
+    artName: 'Slow_Bounce',
+    pageLink: './Art/Slow_Bounce/index.html',
+    imageLink: './Art/Slow_Bounce/Slow_Bounce.gif',
+    author: 'MichaelClautice',
+    githubLink: 'https://github.com/MichaelClautice'
+  },
+  {
+    artName: 'Icymation',
+    pagelink: './Art/icymation/icymation.html',
+    imageLink: './Art/icymation/icymation.gif',
+    author: 'Isai',
+    githublink: 'https://github.com/isaicastro1'
+  },
+  {
+    artName: 'boxslide',
+    pageLink: './Art/AK47/anima.html',
+    imageLink: './Art/AK47/boxslide.png',
+    author: 'Anurag Kanungo',
+    githubLink: 'https://github.com/Anuragcr'
+  },
+  {
+    artName: 'letz ani',
+    pageLink: './Art/letz/index.html',
+    imageLink: './Art/letz/trans.gif',
+    author: 'letz0703',
+    githubLink: 'https://github.com/letz0703'
+  },
+  {
+    artName: 'My Full-Stack Animation',
+    pageLink: './Art/BrandonNSangma/index.html',
+    imageLink: './Art/BrandonNSangma/fullstack.gif',
+    author: 'Brandon N. Sangma',
+    githubLink: 'https://github.com/brancore87'
+  },
+  {
+    artName: 'radar-animation',
+    pageLink: './Art/radar-animation/index.html',
+    imageLink: './Art/radar-animation/radar.gif',
+    author: 'Angel Orellana',
+    githubLink: 'https://github.com/luisangel2895'
+  },
+  {
+    artName: 'Parachute Guy',
+    pageLink: './Art/barretoga/index.html',
+    imageLink: './Art/barretoga/animation.gif',
+    author: 'Gabriel Barreto',
+    githubLink: 'https://github.com/barretoga'
+  },
+  {
+    artName: 'Animated Bird',
+    pageLink: './Art/sampConrad/index.html',
+    imageLink: './Art/sampConrad/bird.gif',
+    author: 'Conrado Sampaio',
+    githubLink: 'https://github.com/sampconrad'
+  },
+  {
+    artName: 'U-turn',
+    pageLink: './Art/baraksArt.index.html',
+    imageLink: './Art/baraksArt/U-turn.gif',
+    author: 'Barak',
+    githubLink: 'https://github.com/bcolovas'
+  },
+  {
+    artName: 'Bouncing Balls DF',
+    pageLink: './Art/bouncingdf/index.html',
+    imageLink: './Art/bouncingdf/bouncingdf.gif',
+    author: 'David Flores',
+    githubLink: 'https://github.com/dflo55'
+  },
+  {
+    artName: 'WAnimation',
+    pageLink: './Art/WAnimation/index.html',
+    imageLink: './Art/WAnimation/Animation.gif',
+    author: 'WDevelopsWebApps',
+    githubLink: 'https://github.com/WDevelopsWebApps'
+  },
+  {
+    artName: 'textSlide',
+    pageLink: './Art/textSlide/index.html',
+    imageLink: './Art/textSlide/textSliding.gif',
+    author: 'Lucas GM',
+    githubLink: 'https://github.com/LucasGM17'
+  },
+  {
+    artName: 'Loading Logo',
+    pageLink: './Art/magedmohammed/index.html',
+    author: 'Maged Mohammed',
+    githubLink: 'https://github.com/magedmohammed834'
+  },
+  {
+    artName: 'Green Loading',
+    pageLink: './Art/KevinMaida/index.html',
+    imageLink: './Art/KevinMaida/loadingGif.gif',
+    author: 'Kevin Maida',
+    githubLink: 'https://github.com/KevinMaida'
+  },
+  {
+    artName: 'Simple Bounce',
+    pageLink: './Art/ardiandharminto/index.html',
+    imageLink: './Art/ardiandharminto/simple-bounce.gif',
+    author: 'Ardian Dharminto',
+    githubLink: 'https://github.com/ardiandharminto'
+  },
+  {
+    pageLink: './Art/ZTM-Academy/index.html',
+    imageLink: './Art/ZTM-Academy/ztm.gif',
+    author: 'Denis',
+    githubLink: 'https://github.com/denis11m'
+  },
+  {
+    pageLink: './Art/evropa/index.html',
+    imageLink: './Art/evropa/drift.gif',
+    author: 'evropa',
+    githubLink: 'https://github.com/evropa'
+  },
+  {
+    artName: 'animatron_av',
+    pageLink: './Art/animatron_av/index.html',
+    imageLink: './Art/Joy/triangle/trance.gif',
+    author: 'Alex',
+    githubLink: 'https://github.com/averde1973'
+  },
+  {
+    artName: 'animationzone',
+    pageLink: './Art/animationzone/index.html',
+    imageLink: './Art/animationzone/ezgif.com-gif-maker',
+    author: 'Erez',
+    githubLink: 'https://github.com/ErezAvni9'
   }
 ];
 
